@@ -1,20 +1,21 @@
 body {
   margin: 5rem;
-  display: flex;
-  justify-content: center;
-  text-align: center;
+ display: flex;
+ justify-content: center;
+ text-align: center;
 }
 
-.input-filed {
+.input-filed{
   background-color: gray;
-  padding: 0.7rem;
+  padding: 1rem;
+
 }
 
-.btn-last {
-  width: 50%;
-  padding: 20px;
-  border-right: 2px solid #d1cfcf;
-  border-bottom: 2px solid #d1cfcf;
+.last-btn {
+ width: 50%;
+ padding: 20px;
+ border-right: 2px solid #d1cfcf;
+ border-bottom: 2px solid #d1cfcf;
 }
 
 .calulator-container {
@@ -22,39 +23,39 @@ body {
   margin-left: 5rem;
 }
 
-.other-operations {
+.other-operations{
   padding: 20px;
   border-right: 2px solid #d1cfcf;
   border-bottom: 2px solid #d1cfcf;
   width: 25%;
-}
+};
 
 .btn {
-  color: var(--buttons-font-color);
-  font-size: 2rem;
+color: var(--buttons-font-color);
+font-size: 2rem;
+};
+
+.Digits-container{
+font-size: 1rem;
+padding: 0.5rem;
+width: 100%;
+display: flex;
+background-color: var(--buttons-gray);
 }
 
-.Digits-container {
-  font-size: 1rem;
-  padding: 0.5rem;
-  width: 100%;
-  display: flex;
-  background-color: var(--buttons-gray);
-}
-
-.digits-btn {
+.digits-btn{
   padding: 20px;
   border-right: 2px solid #d1cfcf;
   border-bottom: 2px solid #d1cfcf;
   width: 25%;
 }
 
-button {
+button{
   cursor: pointer;
   border: none;
 }
 
-.operator {
+.operator{
   width: 25%;
   background-color: #faa764;
-}
+};

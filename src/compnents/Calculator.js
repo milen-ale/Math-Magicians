@@ -15,7 +15,7 @@ class Calculator extends React.Component {
           </div>
         </div>
         <div className="wrpper-operation">
-          <div className="Digits-container">
+          <div>
             <button type="button" className="other-operations btn">AC</button>
             <button type="button" className="other-operations btn">+/-</button>
             <button type="button" className="other-operations btn">%</button>
@@ -41,7 +41,7 @@ class Calculator extends React.Component {
             <button type="button" className="digits-btn  operator">+</button>
           </div>
           <div className="Digits-container">
-            <button type="button" className=" btn-last">0</button>
+            <button type="button" className="last-btn btn">0</button>
             <button type="button" className="digits-btn  btn">.</button>
             <button type="button" className="digits-btn operator">=</button>
           </div>
