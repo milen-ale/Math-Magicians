@@ -19,7 +19,7 @@ body {
 
 .calulator-container {
   width: 500px;
-  margin-left: 5rem;
+  margin: 5rem 5rem;
 }
 
 .other-operations {
@@ -36,7 +36,6 @@ body {
 
 .Digits-container {
   font-size: 1rem;
-  padding: 0.5rem;
   width: 100%;
   display: flex;
   background-color: var(--buttons-gray);
