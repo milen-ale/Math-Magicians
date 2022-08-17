@@ -33,7 +33,7 @@ You have to have Node.js installed before working on this project.
 
 ### Author
 
-👤 Eyasu Teshome
+👤 Milen Alebel
 
 - GitHub: [@milen-ale](https://github.com/MilenAlebel)
 - Twitter: [@milenalebel](https://twitter.com/milenalebel)
