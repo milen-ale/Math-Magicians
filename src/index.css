@@ -15,6 +15,7 @@ body {
   padding: 20px;
   border-right: 2px solid #d1cfcf;
   border-bottom: 2px solid #d1cfcf;
+  font-size: 1rem;
 }
 
 .calulator-container {
@@ -36,7 +37,6 @@ body {
 
 .Digits-container {
   font-size: 1rem;
-  padding: 0.5rem;
   width: 100%;
   display: flex;
   background-color: var(--buttons-gray);
