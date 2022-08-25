@@ -5,6 +5,12 @@ body {
   text-align: center;
 }
 
+.header {
+  display: flex;
+  justify-content: flex-start;
+  margin: 20px;
+}
+
 .input-filed {
   background-color: gray;
   padding: 0.7rem;
@@ -20,7 +26,8 @@ body {
 
 .calulator-container {
   width: 500px;
-  margin-left: 5rem;
+  margin: 5rem 30rem;
+  align-items: center;
 }
 
 .other-operations {
