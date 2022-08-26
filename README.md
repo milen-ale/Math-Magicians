@@ -10,6 +10,7 @@ In this project I have built a calculator app that goes with the name "Math Magi
 - JavaScript/React(framework)
   
 ## Live Demo
+[Live Demo](https://milencalculator.netlify.app/)
 
 Not available currently
 
