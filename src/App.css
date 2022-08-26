@@ -1,8 +1,8 @@
 nav {
   display: flex;
   justify-content: space-around;
-  align-items: center;
-  min-height: 10vh;
+  height: 10vh;
+  width: 100%;
   background-color: #d68b36;
 }
 
@@ -12,4 +12,18 @@ nav {
   justify-content: space-around;
   align-items: center;
   list-style: none;
+}
+
+.quote {
+  display: flex;
+  align-items: center;
+  font-size: 2em;
+  text-align: center;
+  margin: 10px;
+}
+
+.home {
+  font-size: 1.5em;
+  margin: 10px;
+  text-align: center;
 }
