@@ -37,7 +37,7 @@ You have to have Node.js installed before working on this project.
 👤 Milen Alebel
 
 - GitHub: [@milen-ale](https://github.com/MilenAlebel)
-- Twitter: [@milenalebel](https://twitter.com/milenalebel)
+- Twitter: [@milenalebel2](https://twitter.com/milenalebel2)
 - LinkedIn: [@milenalebel](https://linkedin.com/in/milenalebel)
 ## 🤝 Contributing
 
